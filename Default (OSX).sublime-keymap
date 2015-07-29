@@ -1,0 +1,10 @@
+[
+    { "keys": ["ctrl+shift+r"], "command": "reveal_in_side_bar"},
+    { "keys": ["shift+enter"], "command": "move", "args": {"by": "subword_ends", "forward": true} },
+    { "keys": ["ctrl+alt+j"], "command": "js_format" },
+    { "keys": ["super+c"], "command": "noop", "context":
+        [
+          { "key": "selection_empty", "operator": "equal", "operand": true, "match_all": true }
+        ]
+    }
+]
