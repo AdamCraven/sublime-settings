@@ -1,0 +1,28 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"Fix Mac Path",
+		"Gherkin (Cucumber) Formatter",
+		"Git",
+		"HTML5",
+		"HTMLBeautify",
+		"JavaScriptNext - ES6 Syntax",
+		"JsFormat",
+		"LogView",
+		"More Layouts",
+		"nginx",
+		"Package Control",
+		"Pretty JSON",
+		"Sass",
+		"Search in Project",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"tern_for_sublime",
+		"Theme - Afterglow"
+	]
+}
